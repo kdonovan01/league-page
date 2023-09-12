@@ -75,7 +75,7 @@ export const tabs = [
     },
     {
         icon: 'lightbulb',
-        label: 'Resources',
+        label: 'Draft History',
         dest: '/resources',
     },
 ];
