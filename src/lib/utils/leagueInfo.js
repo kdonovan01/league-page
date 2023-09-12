@@ -7,7 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The Dirty Half Dozen Home Page.</p>
+  <p>Welcome to the The Dirty Half Dozen</p>
+  <p>League Rules, previous draft results, and more availabe here!</p>
 `;
 
 /*   STEP 3   */
