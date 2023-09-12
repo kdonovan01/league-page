@@ -34,14 +34,14 @@ import { dynasty } from './utils/helper';
             separator: true,
             dynastyOnly: true,
         },
-//        {
-//            name: "Dynasty League Football",
-//            url: "https://dynastyleaguefootball.com/",
-//            icon: "insights",
-//            premium: true,
-//            separator: true,
-//            dynastyOnly: true,
-//        },
+        {
+            name: "2023 Rookie FAAB Auction Results",
+            url: "https://drive.google.com/file/d/1-QmY9omtH5AaSGAFKWWcsEFe0Pd0JKp3/view?usp=sharing",
+            icon: "insights",
+            premium: false,
+            separator: true,
+            dynastyOnly: true,
+        },
 //        {
 //            name: "Reddit Dynasty Fantasy Football",
 //            url: "https://www.reddit.com/r/DynastyFF/",
