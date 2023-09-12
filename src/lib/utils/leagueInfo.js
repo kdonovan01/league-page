@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>League Rules, previous draft results, and more availabe here!</p>
+  <p>League Rules, previous draft results, and more available here!</p>
 `;
 
 /*   STEP 3   */
