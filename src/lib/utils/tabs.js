@@ -46,11 +46,11 @@ export const tabs = [
                 label: 'Standings',
                 dest: '/standings',
             },
-            {
-                icon: 'view_comfy',
-                label: 'Drafts',
-                dest: '/drafts',
-            },
+//            {
+//                icon: 'view_comfy',
+//                label: 'Drafts',
+//                dest: '/drafts',
+//            },
             {
                 icon: 'emoji_events',
                 label: 'Trophy Room',
@@ -63,8 +63,8 @@ export const tabs = [
             },
             {
                 icon: 'history_edu',
-                label: 'Constitution',
-                dest: '/constitution',
+                label: 'League Rules',
+                dest: 'https://drive.google.com/file/d/1ADRIa0bE_nKlQDCUXIozweeJ02vZr5c2/view?usp=drive_link',
             },
             {
                 icon: 'sports_football',
