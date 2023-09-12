@@ -1,6 +1,7 @@
 <script>
 	import SingleNews from "./SingleNews.svelte"
 	import Pagination from "../Pagination.svelte"
+	import { getNews } from "$lib/utils/helper";
 	import { onMount } from 'svelte';
 
     export let news;
