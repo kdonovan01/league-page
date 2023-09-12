@@ -139,7 +139,7 @@ import { dynasty } from './utils/helper';
 
 <div class="pageBody">
     <div class="banner">
-        <h4>Helpful Dynasty Resources</h4>
+        <h4>Previous Draft Results</h4>
     </div>
 
     <List class="list" dense>
@@ -183,7 +183,7 @@ import { dynasty } from './utils/helper';
             {/if}
         {/each}
     </List>
-    <p class="disclaimer"></p>
-    <p class="disclaimer"></p>
-    <p class="disclaimer"></p>
+    <p class="disclaimer"> </p>
+    <p class="disclaimer"> </p>
+    <p class="disclaimer"> </p>
 </div>
